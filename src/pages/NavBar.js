@@ -8,7 +8,7 @@ const CustomNavbar = () => {
         {/* Company Name on the Right */}
         <Nav className="ml-auto">
           <Nav.Link href="#home" className="text-white" style={{ fontWeight: 'bold' }}>
-            theDev
+            Swami Naidu Datti
           </Nav.Link>
         </Nav>
       </Container>
