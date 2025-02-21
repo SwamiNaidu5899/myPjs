@@ -12,9 +12,9 @@ import tihub from '../images/tihub.png';
 // Project data
 const projectData = [
   {
-    title: "Tourism Website",
+    title: "Travel Website",
     image: travel,
-    link: "https://tourism-frontend-flame.vercel.app/"
+    link: "https://travel-client-gamma.vercel.app/"
   },
   {
     title: "MokstoSolutions",
